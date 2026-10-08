@@ -4,8 +4,6 @@
 
 * Kauã Pina
 * Lucas Pina
-* Nome do participante 3
-* Nome do participante 4
 
 ## Descrição do Projeto
 
