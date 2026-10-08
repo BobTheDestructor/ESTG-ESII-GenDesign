@@ -2,8 +2,8 @@
 
 ## Participantes
 
-* Kauã Pina
-* Lucas Pina
+* 2024126856 Kauã Pina
+* 2024121434 Lucas Pina
 
 ## Descrição do Projeto
 
