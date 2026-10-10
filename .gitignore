@@ -1,0 +1,28 @@
+# Variáveis de ambiente (API keys!)
+.env
+*.env
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Base de dados local
+*.db
+*.sqlite
+*.sqlite3
+
+# Imagens geradas
+backend/storage/
+
+# IDE / SO
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
