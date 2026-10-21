@@ -36,7 +36,3 @@ A aplicação utiliza uma API de um Large Language Model (LLM) para interpretar 
 | Testes | Vitest |
 | CI/CD | GitHub Actions |
 | Deploy | Docker + Docker Compose |
-
-## Documentação
-
-* [Visão e Arquitetura](docs/VISAO_ARQUITETURA.md)
