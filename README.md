@@ -24,7 +24,19 @@ A aplicação utiliza uma API de um Large Language Model (LLM) para interpretar 
 
 ## Tecnologias
 
-* **Frontend:** HTML, CSS e JavaScript.
-* **Backend:** Python.
-* **Inteligência Artificial:** API de LLM para interpretação dos prompts e API de geração de imagens.
-* **Base de dados:** MySQL ou SQLite para guardar utilizadores e projetos.
+| Camada | Tecnologia |
+|---|---|
+| Frontend | Next.js 14 (App Router) + TypeScript |
+| UI | Tailwind CSS + shadcn/ui |
+| Backend | Next.js Route Handlers + Server Actions |
+| Base de Dados | PostgreSQL 16 + Prisma ORM |
+| Autenticação | NextAuth.js v5 + bcrypt |
+| Validação | Zod v4 |
+| IA | API Gemini (LLM + geração de imagens) |
+| Testes | Vitest |
+| CI/CD | GitHub Actions |
+| Deploy | Docker + Docker Compose |
+
+## Documentação
+
+* [Visão e Arquitetura](docs/VISAO_ARQUITETURA.md)
